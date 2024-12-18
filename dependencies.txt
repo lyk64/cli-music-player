@@ -1,0 +1,6 @@
+pygame
+yt-dlp
+requests
+mutagen
+beautifulsoup4
+youtube_dl
